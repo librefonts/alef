@@ -1,0 +1,33 @@
+{
+  "name": "Alef",
+  "designer": "Hagilda and Mushon Zer-Aviv",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 45808,
+  "fonts": [
+    {
+      "name": "Alef",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Alef-Bold.ttf",
+      "postScriptName": "Alef-Bold",
+      "fullName": "Alef Bold",
+      "copyright": "Copyright (c) 2012 by Hagilda. All rights reserved."
+    },
+    {
+      "name": "Alef",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Alef-Regular.ttf",
+      "postScriptName": "Alef-Regular",
+      "fullName": "Alef Regular",
+      "copyright": "Copyright (c) 2012 by Hagilda. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2013-05-21"
+}
